@@ -7,6 +7,7 @@
 
 # Site settings
 title: "Help Center"
+name: KreyWatch
 email: gusquinalha@gmail.com
 description: "Simple and flexible Jekyll theme for help center."
 #baseurl: "kreywatch"
