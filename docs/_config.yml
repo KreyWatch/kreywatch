@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Help Center"
+title: "KreyWatch"
 name: KreyWatch
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
+email: kreywatch@rixotstudio.cz
+description: "Kreyren's contribution to PINE64 and maintainance of personal fork"
 #baseurl: "kreywatch"
 url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+#twitter_username: "gustavoquinalha"
+github_username:  "kreyren"
 color_theme:  "#b84dff"
 color_text:  "#000"
 language:  "en"
