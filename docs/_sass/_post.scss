@@ -22,7 +22,8 @@
     }
 
     &:hover {
-      border-color: $colortheme;
+      background-color: rgb(26, 26, 26);
+      border-color: rgb(26, 26, 26);
     }
 
     .list-item-icon {
@@ -35,7 +36,11 @@
     .list-post-title {
       font-size: 22px;
       transition: .3s;
+      cursor: pointer;
       color: $colortheme;
+      &:hover {
+        color: rgb(225, 0, 255);
+      }
     }
     .list-post-description {
       font-size: 16px
