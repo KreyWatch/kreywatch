@@ -1,13 +1,15 @@
 .content-post {
   min-height: calc(100vh - 480px);
-  background: #f3f5f7;
+  background: rgb(34, 34, 34);
   padding-top: 30px;
   padding-bottom: 30px;
 }
 
 .list-item {
   box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
-  border: 1px solid #C1C1C1;
+  border: 1px solid rgb(53, 53, 53);
+  color: #fff;
+  background: rgb(44, 44, 44);
   margin-bottom: 20px;
   padding: 20px;
   box-sizing: border-box;

@@ -13,8 +13,8 @@ description: "Simple and flexible Jekyll theme for help center."
 url: "http://quinalha.me"
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
-color_theme:  "#0081ff"
-color_text:  "#fff"
+color_theme:  "#b84dff"
+color_text:  "#000"
 language:  "en"
 
 # Build settings

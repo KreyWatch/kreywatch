@@ -1,11 +1,11 @@
 .footer {
   min-height: 200px;
-  background: #ECECEC;
+  background: rgb(0, 0, 0);
   overflow: hidden;
 
   .footer--block {
     a {
-      color: $colortheme;
+      color: rgb(255, 0, 234);
 
       span {
         font-weight: bold;
@@ -14,7 +14,7 @@
 
     .by {
       a {
-        color: #515151;
+        color: #ffffff;
       }
     }
   }
