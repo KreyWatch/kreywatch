@@ -3,4 +3,4 @@ ports:
     onOpen: open-preview
 
 tasks:
-  - init: bundle install
+  - init: cd docs && bundle install
