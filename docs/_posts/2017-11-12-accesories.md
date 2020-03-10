@@ -12,6 +12,8 @@ questions:
 Attached is the FreeCAD source file, to modify (the case fits great, but there's room for improvement)
 https://www.thingiverse.com/thing:4172849"
     image: "pinetime_case.jpg"
+  - question: 'Wrist band'
+    answer: "Pinetime accepts standard 20mm wrist band, but make sure to check the connectors prior to making the purchase since some sellers idea of a standard might vary."
 ---
 
 Work in progress
